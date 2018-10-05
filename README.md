@@ -1,14 +1,13 @@
 # 機能
-dmenu feed 出力用 WordPress Plugin
+hidefeed shortcode
 
 # install
 composer install
 
 # 使い方
-/feed?type=dmenuでdmenu用のfeedが出力される
-
-# 移植元
-clicccar
+[hidefeed][/hidefeed]
+で囲われた部分がfeedに出力されない
 
 # 使用媒体
-CUCURU
+itmama
+currytion
