@@ -4,8 +4,8 @@
     "type": "wordpress-plugin",
     "authors": [
         {
-            "name": "tanaka daichi",
-            "email": "daichi.tanaka@glucose.jp"
+            "name": "Digitalcube",
+            "homepage": "https://www.digitalcube.jp"
         }
     ],
     "require": {
